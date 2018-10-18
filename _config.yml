@@ -3,7 +3,7 @@ title: ShadowIterator
 SEOTitle: SI.Blog
 header-img: img/post-bg-desk.jpg
 email: ShadowIterator@hotmail.com
-description: "Every failure is leading towards success."
+description: "no description"
 keyword: "django, tornado"
 url: "http://ShadowIterator.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ theme: jekyll-theme-architect
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "no sidebar discription"
 sidebar-avatar: /img/hfzlp.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
