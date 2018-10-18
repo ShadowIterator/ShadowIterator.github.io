@@ -7,8 +7,10 @@ author:     ShadowIterator
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - template display
+    - templateDisplay
 ---
+
+> brief
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
