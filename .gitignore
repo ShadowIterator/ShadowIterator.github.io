@@ -40,3 +40,4 @@ _site
 Gemfile.lock
 *.gem
 templates_/
+_posts_bp/
